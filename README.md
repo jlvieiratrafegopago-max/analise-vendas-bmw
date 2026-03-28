@@ -19,4 +19,4 @@ Este é um projeto de **Portfólio Fictício**.
 * Informações reais de empresas privadas são confidenciais; este estudo simula um cenário real para demonstração de competência técnica.
 
 ---
-*Desenvolvido por José Luiz Vieira - Estudante de IA (Uninassau)*
+*Desenvolvido por José Luiz Vieira 
